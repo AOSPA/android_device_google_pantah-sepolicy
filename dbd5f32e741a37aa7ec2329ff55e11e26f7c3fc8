@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f8539f7d_dd23dfa2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000896
+      },
+      "writtenOn": "2023-06-20T05:41:20Z",
+      "side": 1,
+      "message": "This has been added here and not in gs201-sepolicy because this is specific to panther/cheetah (lynx doesn\u0027t need it). Also, adevtool breaks if device specific sepolicy is added to common.",
+      "revId": "dbd5f32e741a37aa7ec2329ff55e11e26f7c3fc8",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
